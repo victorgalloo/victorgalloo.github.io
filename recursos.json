@@ -1,8 +1,17 @@
 [
- {"titulo": "Herramientas de admisiones para colegios y universidades 2026 (hoja pública)",
+ {
+  "titulo": "Herramientas de admisiones para colegios y universidades 2026 (hoja pública)",
   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhU5theE9dOG7yiGLCQAiFRhBHJ7VjyzMZDweeL8wtvYYUZyG45lu-BaIuSmfT-F6Z4s8PsDrAV0hc/pubhtml",
-  "descripcion": "Qué hace cada opción (CRM de admisiones, CRM genéricos, control escolar, WhatsApp, Excel) y a quién le conviene."},
- {"titulo": "CRM escolar: cómo saber si de verdad da seguimiento a las familias (LinkedIn)",
+  "descripcion": "Qué hace cada opción (CRM de admisiones, CRM genéricos, control escolar, WhatsApp, Excel) y a quién le conviene."
+ },
+ {
+  "titulo": "Muchos informes y pocas inscripciones: mide esto primero (LinkedIn)",
+  "url": "https://www.linkedin.com/pulse/muchos-informes-y-pocas-inscripciones-mide-esto-primero-victor-gallo-aqnuc/",
+  "descripcion": "Los dos cocientes que reviso antes de recomendar cualquier herramienta."
+ },
+ {
+  "titulo": "CRM escolar: cómo saber si de verdad da seguimiento a las familias (LinkedIn)",
   "url": "https://www.linkedin.com/pulse/crm-escolar-c%25C3%25B3mo-saber-si-de-verdad-da-seguimiento-las-victor-gallo-mco9c/",
-  "descripcion": "La prueba que pido en cada demo de CRM y la regla que uso para decidir."}
+  "descripcion": "La prueba que pido en cada demo de CRM y la regla que uso para decidir."
+ }
 ]
