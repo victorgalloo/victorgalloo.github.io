@@ -5,6 +5,11 @@
   "descripcion": "Qué hace cada opción (CRM de admisiones, CRM genéricos, control escolar, WhatsApp, Excel) y a quién le conviene."
  },
  {
+  "titulo": "Proceso de seguimiento en admisiones: qué convierte más alumnos inscritos (Gamma)",
+  "url": "https://gamma.app/docs/Proceso-de-seguimiento-en-admisiones-que-convierte-mas-alumnos-in-fjqc62csaaw3d9k",
+  "descripcion": "Cada etapa del seguimiento con su plazo y la regla de dueño, plazo y siguiente paso para no perder familias."
+ },
+ {
   "titulo": "Muchos informes y pocas inscripciones: dónde se cae la familia (Gamma)",
   "url": "https://gamma.app/docs/Muchos-informes-y-pocas-inscripciones-donde-se-cae-la-familia-27819z6cn3rp4l1",
   "descripcion": "Los cuatro momentos donde se cae una familia entre el primer mensaje y la inscripción, y los dos números que revisar antes de comprar herramienta."
@@ -33,10 +38,5 @@
   "titulo": "Seguimiento a aspirantes universitarios: admitido no es inscrito (LinkedIn)",
   "url": "https://www.linkedin.com/pulse/seguimiento-aspirantes-universitarios-admitido-es-inscrito-gallo-vt2vc/",
   "descripcion": "Por qué el momento más delicado está entre el resultado del examen y el pago, y la regla de que cada etapa termine en una fecha."
- },
- {
-  "titulo": "CRM para colegios: cómo elegir uno que dé seguimiento a cada familia (Gamma)",
-  "url": "https://gamma.app/docs/CRM-para-colegios-como-elegir-uno-que-de-seguimiento-a-cada-famil-wdfomna3ltaislr",
-  "descripcion": "Presentación de 8 láminas: cuatro tipos de herramienta, la prueba de la familia del martes y la regla para decidir."
  }
 ]
