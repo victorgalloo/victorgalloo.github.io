@@ -18,7 +18,7 @@ REDES = [
     ("Podcast en Spotify", "https://open.spotify.com/show/60qzhpDBnYBmHSvoOHZEcJ"),
     ("Medium", "https://medium.com/@victor_76481"),
     ("X", "https://x.com/victorgallomx"),
-    ("TikTok", "https://www.tiktok.com/@victorgallooo"),
+    ("TikTok", "https://www.tiktok.com/@victor.gallo842"),
     ("Facebook", "https://www.facebook.com/VictorGallogbm"),
     ("GitHub", "https://github.com/victorgalloo"),
 ]
