@@ -49,7 +49,7 @@ def main() -> None:
             "@id": "https://victorgallo.com/#victor",
             "name": "Victor Gallo",
             "alternateName": "Victor Jiménez Gallo",
-            "jobTitle": "Experto en procesos comerciales educativos",
+            "jobTitle": "Experto en procesos comerciales educativos + IA",
             "worksFor": {"@type": "Organization", "@id": "https://superleads.mx/#org", "name": "SuperLeads",
                           "url": "https://superleads.mx/"},
             "url": "https://victorgallo.com/",
@@ -61,8 +61,8 @@ def main() -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Victor Gallo · Experto en procesos comerciales educativos en SuperLeads</title>
-<meta name="description" content="Victor Gallo ayuda a colegios y universidades privadas a inscribir más alumnos, con datos. Experto en procesos comerciales educativos en SuperLeads. Artículos, podcast y recursos.">
+<title>Victor Gallo · Experto en procesos comerciales educativos + IA en SuperLeads</title>
+<meta name="description" content="Victor Gallo ayuda a colegios y universidades privadas a inscribir más alumnos, con datos. Experto en procesos comerciales educativos + IA en SuperLeads. Artículos, podcast y recursos.">
 <link rel="me" href="https://victorgallo.com/">
 <meta property="og:title" content="Victor Gallo · Admisiones con datos">
 <meta property="og:description" content="Ayudo a colegios y universidades a inscribir más alumnos, con datos.">
@@ -89,7 +89,7 @@ footer{{margin-top:44px;color:var(--su);font-size:.9rem}}
     <img src="https://victorgallo.com/assets/victor-gallo.webp" alt="Victor Gallo" width="112" height="112">
     <div>
       <h1>Victor Gallo</h1>
-      <p class="cargo">Experto en procesos comerciales educativos en <a href="https://superleads.mx/">SuperLeads</a> · Ayudo a colegios y universidades a inscribir más alumnos, con datos.</p>
+      <p class="cargo">Experto en procesos comerciales educativos + IA en <a href="https://superleads.mx/">SuperLeads</a> · Ayudo a colegios y universidades a inscribir más alumnos, con datos.</p>
     </div>
   </header>
 
